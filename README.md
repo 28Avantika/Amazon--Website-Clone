@@ -55,7 +55,7 @@ Follow these steps to run the project locally:
 Open your terminal or command prompt and run:
 
 ```sh
-git clone <repository-url>
+git clone <https://github.com/28Avantika/Amazon--Website-Clone.git>
 ```
 
 ### 2️⃣ Navigate to the Project Directory
